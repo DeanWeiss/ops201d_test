@@ -8,6 +8,26 @@
 
 # Main
 
-
+docs=(doc1.txt doc2.txt doc3.txt)
+echo "Let's look for a text document, y/n?"
+read looking
+while [[ $looking == y ]]
+do
+    echo 'Which document should we look for?'
+    echo ${docs[@]}
+    read file
+    if [ -f  $file ]
+        then
+            echo "The file exists."     
+    else
+        echo "The file does not exist. Should we create it, (y/n)?"
+        read create
+        if [ $create == y ]
+        then
+            touch $file
+            echo " $file was created."
+        fi
+    fi
+done
 
 # End
