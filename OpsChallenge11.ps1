@@ -1,4 +1,4 @@
-@REM # Script: Ops 201 Class 10 Ops Challenge Solution
+@REM # Script: Ops 201 Class 11 Ops Challenge Solution
 @REM # Author: Dean Weiss
 @REM # Date of latest revision: 08 August 2022
 @REM # Purpose: Write powershell script that automatically configures settings.
