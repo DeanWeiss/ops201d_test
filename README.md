@@ -2,16 +2,15 @@
 
 # Summary
 
-Hello and welcome to my Ops 201d5 repo, my name is Dean and this is where we tested what we learned about in that days class. Taking what we read and discused and applying it. Below, you will find links to each of the challenges for that day. 
-
-
-Why are you learning these skills?
-What fundamental concepts did you learn in Ops 201?
-What was your favorite Ops Challenge assignment and why?
-How can these examples of shell scripting be applied to the workplace?
-What scripts would you continue to improve if you had the time?
-What aspect of your shell scripting skillset do you hope to improve next?
-
+<p> Hello and welcome to my Ops 201d5 repo, my name is Dean and this is the beginning of my journey into Operations and Cybersecurity. This is where I tested what I learned about in that day's class. Taking what we read and discussed and applying it. </P>
+<br>
+<p> You will find a variety of projects below you. From the first shell script ‘Hello World’ where I am first introduced to shebang to the following scripts that introduce new ideas and get more complex. </p>
+<br>
+<p> While getting familiarized with the basics of scripting I am also learning how to learn, how to find the solutions by researching online and by working with my fellow classmates. While these examples may be simple, they underline my ability to understand new concepts and apply them in a professional setting. </p>
+<br>
+<p> Given more time I know that I could go back and learn to simplify the scripts and make most of them scripts that could be used in other tasks. I really hope to improve in understanding syntax and being able to find the simplest solution to a problem instead of over complicating the process. </p>
+<br>
+<br>
 [Hello World](https://github.com/DeanWeiss/ops201d_test/blob/main/helloworld.sh)
 <br>
 [Login History](https://github.com/DeanWeiss/ops201d_test/blob/main/loginhistory.sh)
