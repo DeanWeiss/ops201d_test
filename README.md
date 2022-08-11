@@ -1,7 +1,7 @@
 # ops201d_test
 
 # Summary
-<p>
+
 Hello and welcome to my Ops 201d5 repo, my name is Dean and this is the beginning of my journey into Operations and Cybersecurity. This is where I tested what I learned about in that day's class. Taking what we read and discussed and applying it.
 <br>
 <br>
