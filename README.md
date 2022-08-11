@@ -2,7 +2,7 @@
 
 # Summary
 
-Hello and welcome to my Ops 201d5 repo, my name is Dean and this is where we tested what we learned about in that days class. Taking what we read and discuseed and applying it. Below you will find links to each of the challenges for that day.
+Hello and welcome to my Ops 201d5 repo, my name is Dean and this is where we tested what we learned about in that days class. Taking what we read and discuseed and applying it. Below, you will find links to each of the challenges for that day.
 
 [Hello World](https://github.com/DeanWeiss/ops201d_test/blob/main/helloworld.sh)
 <br>
