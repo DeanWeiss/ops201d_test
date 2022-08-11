@@ -2,7 +2,7 @@
 
 # Summary
 
-<p> 
+
 Hello and welcome to my Ops 201d5 repo, my name is Dean and this is the beginning of my journey into Operations and Cybersecurity. This is where I tested what I learned about in that day's class. Taking what we read and discussed and applying it.
 <br>
 You will find a variety of projects below you. From the first shell script ‘Hello World’ where I am first introduced to shebang to the following scripts that introduce new ideas and get more complex.
@@ -10,7 +10,7 @@ You will find a variety of projects below you. From the first shell script ‘He
 While getting familiarized with the basics of scripting I am also learning how to learn, how to find the solutions by researching online and by working with my fellow classmates. While these examples may be simple, they underline my ability to understand new concepts and apply them in a professional setting.
 <br>
 Given more time I know that I could go back and learn to simplify the scripts and make most of them scripts that could be used in other tasks. I really hope to improve in understanding syntax and being able to find the simplest solution to a problem instead of over complicating the process. 
-</p>
+
 <br>
 <br>
 [Hello World](https://github.com/DeanWeiss/ops201d_test/blob/main/helloworld.sh)
