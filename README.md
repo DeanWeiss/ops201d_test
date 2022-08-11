@@ -2,7 +2,7 @@
 
 # Summary
 
-<p> Hello and welcome to my Ops 201d5 repo, my name is Dean and this is the beginning of my journey into Operations and Cybersecurity. This is where I tested what I learned about in that day's class. Taking what we read and discussed and applying it. </P>
+<p> Hello and welcome to my Ops 201d5 repo, my name is Dean and this is the beginning of my journey into Operations and Cybersecurity. This is where I tested what I learned about in that day's class. Taking what we read and discussed and applying it. </p>
 <br>
 <p> You will find a variety of projects below you. From the first shell script ‘Hello World’ where I am first introduced to shebang to the following scripts that introduce new ideas and get more complex. </p>
 <br>
