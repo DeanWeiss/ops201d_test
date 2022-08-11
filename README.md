@@ -12,7 +12,6 @@ While getting familiarized with the basics of scripting I am also learning how t
 <br>
 <br>
 Given more time I know that I could go back and learn to simplify the scripts and make most of them scripts that could be used in other tasks. I really hope to improve in understanding syntax and being able to find the simplest solution to a problem instead of over complicating the process.
-</p>
 <br>
 <br>
 [Hello World](https://github.com/DeanWeiss/ops201d_test/blob/main/helloworld.sh)
